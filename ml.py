@@ -1,3 +1,6 @@
+# Code is used for the preliminarly cleaning and apply machine learning algorithms in to 
+# predict data
+
 #! C:\Users\chens\Documents\Data-Project1\env\Scripts\python.exe
 
 import pandas as pd
